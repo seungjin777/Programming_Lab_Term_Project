@@ -1,0 +1,15 @@
+﻿  main.c
+C:\Users\강승진\Desktop\잡것\2-1\프랩\텀프로젝트_최종\텀프로젝트_FireBall게임\main.c(1549,26): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\강승진\Desktop\잡것\2-1\프랩\텀프로젝트_최종\텀프로젝트_FireBall게임\main.c(1560,26): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\강승진\Desktop\잡것\2-1\프랩\텀프로젝트_최종\텀프로젝트_FireBall게임\main.c(1638,27): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\강승진\Desktop\잡것\2-1\프랩\텀프로젝트_최종\텀프로젝트_FireBall게임\main.c(1649,27): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\강승진\Desktop\잡것\2-1\프랩\텀프로젝트_최종\텀프로젝트_FireBall게임\main.c(2447,5): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\강승진\Desktop\잡것\2-1\프랩\텀프로젝트_최종\텀프로젝트_FireBall게임\main.c(2669,23): warning C4129: ' ': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\강승진\Desktop\잡것\2-1\프랩\텀프로젝트_최종\텀프로젝트_FireBall게임\main.c(2669,23): warning C4129: '-': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\강승진\Desktop\잡것\2-1\프랩\텀프로젝트_최종\텀프로젝트_FireBall게임\main.c(2682,24): warning C4129: ':': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\강승진\Desktop\잡것\2-1\프랩\텀프로젝트_최종\텀프로젝트_FireBall게임\main.c(2991,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\강승진\Desktop\잡것\2-1\프랩\텀프로젝트_최종\텀프로젝트_FireBall게임\main.c(3033,13): warning C4013: 'kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\강승진\Desktop\잡것\2-1\프랩\텀프로젝트_최종\텀프로젝트_FireBall게임\main.c(3060,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\강승진\Desktop\잡것\2-1\프랩\텀프로젝트_최종\텀프로젝트_FireBall게임\main.c(3073,18): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\강승진\Desktop\잡것\2-1\프랩\텀프로젝트_최종\텀프로젝트_FireBall게임\main.c(3079,31): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  텀프로젝트_FireBall게임.vcxproj -> C:\Users\강승진\Desktop\잡것\2-1\프랩\텀프로젝트_최종\텀프로젝트_FireBall게임\x64\Debug\텀프로젝트_FireBall게임.exe
