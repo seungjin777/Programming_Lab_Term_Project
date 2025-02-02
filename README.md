@@ -13,7 +13,7 @@
 &emsp; `로스트 건즈`라는 모바일 게임에서 영감을 받아 제작하게 되었습니다.
 
 * __승리 조건__  
-  1\. 먼저 15킬을 달성하면 승리  
+  1\. 먼저 15킬을 달성하면 승리 (300s) 
   2\. 사간 종료 전까지 점령지 깃발이 본인색이면 승리  
   3\. 미점령 경우, 시간 종료시 킬 수가 높은쪽 승리
   
@@ -38,10 +38,17 @@
 	(2) 💧체력포션(일반 아이템): 체력 회복 (슬롯 소지 가능)  
 	(3) 🏳깃발삭제(스페셜 아이템): 점령지 초기화 (소지 불가 즉시사용)  
 	(4) 📀황금구슬(스페셜 아이템): 스킬게이지 완충 (소지 불가 즉시사용)  
-* __실행 화면__  
+
+## 실행 화면  
 `인트로 화면`  
-![FB_introImg](https://github.com/user-attachments/assets/5f46e1de-680a-4608-ae05-0bd005d6f78b)
-`게임 화면`  
-![FB_playImg](https://github.com/user-attachments/assets/77ebcb16-fa65-4cdd-9a19-6bb121b395e1)  
+![FB_introImg](https://github.com/user-attachments/assets/5f46e1de-680a-4608-ae05-0bd005d6f78b)<br>  
 `플레이 영상`
+![FB_playing](https://github.com/user-attachments/assets/a423530c-b097-4615-a60e-aaa8a6615efc)<br>
+간단한 시현 영상이라 플레이 타임 60초로 단축.
+
+## 버그, 해결
+--이클 qna보고 적기
+
+## 소감
+메모장에 정리후 옮겨 적기
 
